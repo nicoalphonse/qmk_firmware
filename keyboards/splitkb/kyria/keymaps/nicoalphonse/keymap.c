@@ -14,6 +14,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  *
  * For compiling on arduino (not elite c): make kyria:nicoalphonse:avrdude
+ * For compiling on elite c follow guide with make without parameters
  */
 #include QMK_KEYBOARD_H
 

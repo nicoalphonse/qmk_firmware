@@ -12,7 +12,8 @@
  *
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
- * make kyria:nicoalphonse:avrdude
+ *
+ * For compiling on arduino (not elite c): make kyria:nicoalphonse:avrdude
  */
 #include QMK_KEYBOARD_H
 
